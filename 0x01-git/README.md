@@ -1,1 +1,1 @@
-non empty
+Learning is cool
